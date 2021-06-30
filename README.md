@@ -60,11 +60,9 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> -->
 
 📊 **This Week I Spent My Time On:**
-<!-- START_SECTION:waka -->
- ```text
-This Week I am spenting my time on some cool web projects
-```
-<!-- END_SECTION:waka  -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
