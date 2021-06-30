@@ -23,19 +23,20 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [medium](https://bhupendraiiti.medium.com/);
 - 📫 How to reach me: bhupendrasingh62435@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+<!-- - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf). -->
 
 </br>
 
-<!-- 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On:**
+START_SECTION:waka
 ```text
 No Activity tracked this Week
 ```
-<!--END_SECTION:waka--> -->
+END_SECTION:waka 
 
 
 📈 **My GitHub Stats:**
+
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=me190003017&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
