@@ -1,7 +1,6 @@
 ### Hi there, I'm <a href="https://www.linkedin.com/in/bhupendra-singh-07b744195/" target="_blank">Bhupendra Singh </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhupendra-singh-07b744195/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-square&logo=Twitter&logoColor=white)](https://twitter.com/IitiSingh)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0e76a8?style=for-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100038928529872)
